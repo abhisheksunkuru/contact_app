@@ -1,0 +1,6 @@
+hi:
+  header: "हमें एक संदेश भेजें"
+  tell_name: "अपना नाम बताएं"
+  enter_email: "अपना ईमेल दर्ज करें"
+  enter_phone: "फोन नंबर दर्ज"
+  message: "संदेश"

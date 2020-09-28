@@ -13,6 +13,13 @@
   </head>
 
   <body>
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <%= t 'header.menu.language'%>
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <%= link_to 'English', url_for(locale: :en), class: "dropdown-item" %>
+        <%= link_to 'हिंदी', url_for(locale: :hi), class: "dropdown-item" %>
+    </div>
     <%= yield %>
   </body>
 </html>

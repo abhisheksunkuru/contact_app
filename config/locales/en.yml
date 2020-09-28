@@ -31,3 +31,8 @@
 
 en:
   hello: "Hello world"
+  header: "Send Us A Message"
+  tell_name: "TELL US YOUR NAME"
+  enter_email: "ENTER YOUR EMAIL"
+  enter_phone: "ENTER PHONE NUMBER"
+  message: "MESSAGE"
