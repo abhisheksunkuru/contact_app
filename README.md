@@ -9,3 +9,4 @@ Steps required to run the application:
 3. specify db credentials in databse.yml
 4. run `bundle exec rake db:migrate`
 5. run `bundle exec rails s`
+6. run `bundle exec rspec` to run the test suite.
