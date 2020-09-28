@@ -1,9 +1,12 @@
-# README
+
 
 Steps required to run the application:
 
 ### Ruby version
 * 2.5.1
+
+### STEPS
+
 1. run `bundle install`
 2. run `bundle exec rake db:create`
 3. specify db credentials in databse.yml
